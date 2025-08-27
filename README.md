@@ -23,15 +23,3 @@ The system aims to support **smart agriculture** by enabling early detection and
 - **OpenCV**
 - **Docker**
 
----
-
-## 📂 Project Structure
-```bash
-Plant-Disease-Prediction/
-│── data/                # Dataset (PlantVillage)
-│── notebooks/           # Jupyter notebooks for experiments
-│── src/                 # Model training and inference scripts
-│── models/              # Saved trained models
-│── Dockerfile           # For containerized deployment
-│── requirements.txt     # Dependencies
-│── README.md            # Project documentation
